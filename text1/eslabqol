@@ -1,0 +1,85 @@
+if ( x % 2 != 0) soni togligini aniqlaydi
+elif ( x % 2 == 0) soni jufligini aniqlaydi
+!= teng emas degani
+
+for - uchun
+range - oralig
+in - ichida
+
+for i in range = satrni qaytta qaytta chiqarishga
+
+continue-keyingi elementga otib ket
+
+break-stop
+
+True-rost
+
+False-yolgon
+
+len - massifni ichidagi narsani sanaydi yaniy qaysi biri kopligini aniqlaydi
+
+tuole - tapl()
+list[]
+set{} - setda 2 ta bir xil elemet qollanmaydi
+value - uzunligi
+pass--if ili fordan keyin xich nima yozmaslik ucun kerak boladi
+
+while x != 0: x ga nol kirit maguncha takrorla va kodni toxtatma
+
+isdigit - satrni raqamligini aniqlaydi
+sum - barcha raqamlarni qoshish
+append - qoshish
+
+dictionary - lugat  di = {"key": "value"} kalit qiymat
+
+items - forda 2 ta i va a olish uchun
+
+return- qaytarish
+
+sleep - uxlash
+
+tkinter - python biblatekasi
+
+end = " "filega kerak
+
+
+split
+
+replace = boshqa narsani orniga yangi narsa qoyish
+strip = boshidagi ortiqcha joylani olib qoladi
+
+r+ = ham oqib ham yozish
+a = davomidan yozish
+
+r - reid = oqishdigani
+list - ozgartirib boladi
+typle - ozgartirib bomidi
+
+
+:: - 1 - sonlarni ili harflarni teskari sanaydi
+
+**kwargs - keyword arguments = odiy ozgaruvchi
+*args - arguments = odiy ozgaruvchi
+
+PRY -
+KISS -
+WET -
+
+WE -
+ENJOY -
+TYPING -
+
+list Comprehension
+
+startswith = shudan boshlanadi digani
+startswith = shudan boshlanadi digani
+
+
+try:
+    except Type Error:
+
+    except Index Error:
+
+    except exception
+
+    finally:
